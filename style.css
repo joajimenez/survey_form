@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
 .grid-container {
     display: grid;
     grid-template-columns: auto;
@@ -73,3 +75,9 @@
       background-color: #5a6abf;
       transform: scale(120%);
   }
+
+  footer {
+  font-family: 'Pacifico', cursive;  font-size: small;
+  background-color: #6979f5;
+  text-align: center;
+    }
